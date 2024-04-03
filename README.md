@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Luis Macedo
 
-- 🔭 I’m currently working on Lua
+- 🔭 I’m currently working on Lua and Java
   
  ##
  
 <div>
   <a href="https://github.com/Lordmcd">
-    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=Lordmcd&show_icons=true&theme=dracula" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Lordmcd&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/Lordmcd">
-    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lordmcd&layout=compact&card_width=320&theme=dracula&langs_count=20" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lordmcd&layout=compact&card_width=320&theme=dracula&langs_count=20" />
   </a> 
 </div>
 
