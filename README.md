@@ -1,6 +1,7 @@
 ### Hi! I am Luis Macedo
 
-- 🔭 I’m currently working on Lua and Java
+- 🔭 I’m currently working on Kotlin, Java and Lua
+- 🔭 Olá, eu estou atualmente trabalhando em Kotlin, Java e Lua.
   
  ##
  
