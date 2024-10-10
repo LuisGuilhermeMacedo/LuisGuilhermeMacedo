@@ -17,9 +17,9 @@
 ##
 
 <div style="display: inline_block"><br>
+  <img aling="center" alt="Math-Kotlin" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Math-Lua" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
   <img align="center" alt="Math-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img aling="center" alt="Math-Kotlin" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </div>
 
 ##
