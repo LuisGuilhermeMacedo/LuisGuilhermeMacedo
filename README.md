@@ -1,4 +1,4 @@
-### Hi! I am Luis Guilherme Macedo 
+### Hi! I am Luis Guilherme Macedo.
 
 - 🔭 I’m currently working on Kotlin.
 - 🔭 Olá, eu estou atualmente trabalhando em Kotlin.
