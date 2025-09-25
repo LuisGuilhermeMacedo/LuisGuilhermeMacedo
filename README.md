@@ -7,10 +7,10 @@
  
 <div>
   <a href="https://github.com/LuisGuilhermeMacedo">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGuilhermeMacedo&show_icons=true&theme=dark" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGuilhermeMacedo&show_icons=true&theme=dark&count_private=true" />
   </a>
   <a href="https://github.com/LuisGuilhermeMacedo">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGuilhermeMacedo&layout=compact&card_width=320&theme=dark&langs_count=20" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGuilhermeMacedo&layout=compact&card_width=320&theme=dark&langs_count=20&count_private=true" />
   </a>
 </div>
 
